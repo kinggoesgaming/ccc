@@ -1,9 +1,9 @@
 [package]
+authors = [
+    "Hunar Roop Kahlon <hunar.roop@gmail.com>"
+]
+description = "The Cymple Compiler Collection"
+edition = "2018"
+license = "Apache-2.0 OR MIT"
 name = "ccc"
 version = "0.1.0"
-authors = ["Hunar Roop Kahlon <hunar.roop@gmail.com>"]
-edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
