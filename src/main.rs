@@ -1,3 +1,4 @@
-fn main() -> Result<(), ()> {
-    return Ok(())
+mod parser;
+
+fn main() {
 }
